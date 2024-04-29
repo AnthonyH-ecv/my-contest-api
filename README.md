@@ -1,9 +1,9 @@
 # My Contest Backend 🌍
 
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/my-contest-backend)
-![GitHub](https://img.shields.io/github/license/yourusername/my-contest-backend)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/my-contest-backend)
-![GitHub issues](https://img.shields.io/github/issues-raw/yourusername/my-contest-backend)
+![GitHub top language](https://img.shields.io/github/languages/top/AnthonyH-ecv/my-contest-backend)
+![GitHub](https://img.shields.io/github/license/AnthonyH-ecv/my-contest-backend)
+![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyH-ecv/my-contest-backend)
+![GitHub issues](https://img.shields.io/github/issues-raw/AnthonyH-ecv/my-contest-backend)
 ![Node.js CI](https://github.com/yourusername/my-contest-backend/workflows/Node.js%20CI/badge.svg)
 
 ## Description 📜
